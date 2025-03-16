@@ -1,7 +1,7 @@
 # AI Language Tutor
 
 ## 📌 Project Overview
-AI Language Tutor is an innovative language learning platform developed for **HACK O OCTO 2.0** 🚀. This AI-powered language learning assistant leverages **Azure Translator API** for real-time translation, pronunciation feedback, and interactive learning experiences. Built with **Streamlit** and powered by **Azure AI services**, this application offers a comprehensive language learning solution.
+AI Language Tutor is an innovative language learning platform developed 🚀. This AI-powered language learning assistant leverages **Azure Translator API** for real-time translation, pronunciation feedback, and interactive learning experiences. Built with **Streamlit** and powered by **Azure AI services**, this application offers a comprehensive language learning solution.
 
 ## 🚀 Features
 - **Real-time Translation** – Instant translation using Azure Translator API
